@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.airport.android.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.airport.android.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.airport.android.app-mergeDebugResources-38:/layout/activity_booking.xml",
+        "source": "com.airport.android.app-main-41:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.airport.android.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.airport.android.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.airport.android.app-mergeDebugResources-38:/layout/item_booking.xml",
+        "source": "com.airport.android.app-main-41:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.airport.android.app-mergeDebugResources-38:/layout/item_flight.xml",
+        "source": "com.airport.android.app-main-41:/layout/item_flight.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.airport.android.app-debug-39:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.airport.android.app-main-41:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/layout_activity_booking.xml.flat",
+        "source": "com.airport.android.app-main-41:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/drawable_ic_flight.xml.flat",
+        "source": "com.airport.android.app-main-41:/drawable/ic_flight.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/layout_item_booking.xml.flat",
+        "source": "com.airport.android.app-main-41:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/drawable_ic_back.xml.flat",
+        "source": "com.airport.android.app-main-41:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.airport.android.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/drawable_ic_bookings.xml.flat",
+        "source": "com.airport.android.app-main-41:/drawable/ic_bookings.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/layout_item_flight.xml.flat",
+        "source": "com.airport.android.app-main-41:/layout/item_flight.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/layout_activity_login.xml.flat",
+        "source": "com.airport.android.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/menu_main_menu.xml.flat",
+        "source": "com.airport.android.app-main-41:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/drawable_ic_profile.xml.flat",
+        "source": "com.airport.android.app-main-41:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.airport.android.app-debug-39:/drawable_spinner_background.xml.flat",
+        "source": "com.airport.android.app-main-41:/drawable/spinner_background.xml"
+    }
+]
